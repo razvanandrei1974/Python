@@ -1,4 +1,4 @@
-# Python Project
+# Python Project - Curs Testare Automata
 
 [Python Initiate](https://github.com/razvanandrei1974/Python/blob/main/Python%20initiate.py)
 
