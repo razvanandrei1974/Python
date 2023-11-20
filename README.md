@@ -9,3 +9,7 @@
 
 [Proiect Saptamana 1](https://github.com/razvanandrei1974/Python/blob/main/Studiu_Echipa_1.2%20varianta%202.py)
 
+
+# Proiect 2
+[user Managemet Window](https://github.com/razvanandrei1974/Python/blob/main/UserManagementMenu.py)
+
