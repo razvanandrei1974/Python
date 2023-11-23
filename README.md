@@ -14,9 +14,6 @@
 [User Managemet Window](https://github.com/razvanandrei1974/Python/blob/main/UserManagementMenu.py)
 
 
-![User Managemant Window](https://github.com/razvanandrei1974/Python/blob/main/USERMANAGEMENT.jpg)
-
-
 # Proiect 3 
 
 [Problema If-Elife-Else](https://github.com/razvanandrei1974/Python/blob/main/Proiect_If_Elif_Else.py)
