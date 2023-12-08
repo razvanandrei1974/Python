@@ -18,7 +18,6 @@
 
 [Problema If-Elife-Else](https://github.com/razvanandrei1974/Python/blob/main/Proiect_If_Elif_Else.py)
 
-![pROBLEMA iF-eLIF-eLse](https://github.com/razvanandrei1974/Python/blob/main/RUN%20IF.jpg)
 
 # Proiect 4
 [Proiect 4](https://github.com/razvanandrei1974/Python/blob/main/Proiect%20sesiunea%204.py)
